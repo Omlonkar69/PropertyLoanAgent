@@ -1,0 +1,29 @@
+assistant: Hello, am I speaking with Vaishnavi Lonkar?
+user:  yes
+assistant:  Thank you. I'm calling with a special offer for our valued customers. Do you have a few minutes to talk?
+user:  sure i have your name
+assistant:  Thank you, Vaishnavi. I'm Jenny, an AI assistant from PropyLoans. We have a special Loan Against Property offer of up to seventy-five lakh rupees for you. May I ask a few quick questions to check if this offer suits you? First, what type of property do you have—residential, commercial, or industrial?
+user:  residential
+assistant:  Got it. Could you please tell me if you are the sole owner of the property or is it jointly owned?
+user:  i'm solo
+assistant:   Understood. Are the original property documents available with you for verification?
+user:  oh yep that's with me
+assistant:  Thank you. How much would you like to borrow against your property?
+user:  about two to sixty lakhs
+assistant:   Just to confirm, is the loan amount you want up to sixty lakh rupees?
+user:  yep
+assistant: Thank you. Are you salaried or self- employed, and do you receive your income in a bank account or in cash?
+user:  okay so i am salaried and i received my
+user:  salary at bank account
+assistant:  Got it. What is the approximate current market value of your property?
+user:  approximately one quarter
+assistant:  Could you please clarify if you mean one crore rupees as the approximate market value of your property?
+user:  yep
+assistant:  Thank you. Lastly, over how many years would you like to repay this loan?
+user:  i guess ten years
+assistant: Just give me a moment, I'll be back with you.
+user:  okay
+assistant:  Thank you. You appear to meet the basic criteria. A senior loan expert will call you back shortly with the exact interest rate and next steps. Have a great day.
+user:  okay thank you
+assistant: Of course. Thank you for your time.
+assistant: Hello, are you still on the line?

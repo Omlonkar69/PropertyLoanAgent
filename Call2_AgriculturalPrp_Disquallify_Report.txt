@@ -1,0 +1,14 @@
+assistant: Hello, am I speaking with Om Lonkar?
+user:  yes
+assistant:  Thank you. I'm calling with a special offer for our valued customers. Do you have a few minutes to talk?
+user:  yeah sure i have three minutes
+assistant:  Great, thank you. We have a special Loan Against Property offer for up to seventy-five lakh rupees. I would like to ask a few quick questions to see if it suits you. 
+
+First, what type of property do you have? Is it residential like a house or flat, commercial like a shop or office, or industrial like a factory?
+user:  actually it is agricultural property
+assistant: Thank you for sharing that. Based on this information, you don't meet the criteria for this specific offer at this time. I appreciate your time.
+assistant:  Thank you for your time. Based on the property type being agricultural, this offer is not suitable for you. Have a good day.
+user:  okay thank you
+assistant: Of course. Thank you for your time.
+assistant: Hello, are you still on the line?
+assistant: The call will now disconnect. Goodbye!

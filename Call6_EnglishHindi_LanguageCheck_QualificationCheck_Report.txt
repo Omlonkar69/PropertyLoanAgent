@@ -1,0 +1,43 @@
+assistant: Hello, am I speaking with Om Lonkar?
+user:  yes this is speaking
+assistant:  Thank you, Om. I'm calling with a special offer for our valued customers. Do you have a few minutes to talk?
+user:  sure i have a few minutes
+assistant:  Thank you. We have a special Loan Against Property offer for up to seventy-five lakh rupees. I'd like to ask a few quick questions to see if it suits you. First, is your property residential, commercial, or industrial?
+user:  it's a residential
+assistant:  Got it. Is the property a house or a flat?
+user:  it's a flat and i am the sole owner of the property
+assistant: Thank you. Are the
+user:  i have the original papers with me
+assistant:  Understood. How much would you like to borrow against your property?
+user:  actually i am a salary salary person and i get my salary on a bank account
+assistant:  Thank you for sharing that. Just to confirm, how much loan amount would you like to apply for?
+user:  it will be fifty fifty lakhs
+assistant:  Got it, fifty lakh rupees. What is the approximate current market value of your property?
+user:  the approximate current value of the property is actually one crore
+assistant:   Thank you. Lastly, over how many years would you like to repay this loan?
+user:  okay can we speak in marathi
+assistant:  I understand your preference, but I can assist you only in English or Hindi. Please let me know your preferred repayment tenure in years.
+user: Okay So can we speak in Hindi?
+assistant: जी हाँ,
+assistant:  आप इस लोन को कितने वर्षों में चुकाना चाहेंगे?
+user:  मैं इस loan को दस सालों में चुकाना चाहूंगा
+assistant: धन्यवाद। आपकी जानकारी के आधार पर
+user:  क्या मैं अपनी जो कुछ emi का
+user:  amount जो है वह reduce करना चाहूंगा
+assistant:  क्या आपके इस प्रॉपर्टी पर पहले से कोई लोन या मॉर्गेज़ है?
+user:  जी हां
+assistant: Just give me a moment, I'll be back with you.
+assistant:  आपके प्रॉपर्टी पर पहले से लोन है और आप EMI कम करना चाहते हैं। एक लोन-ट्रांसफर विशेषज्ञ जल्द ही आपसे संपर्क करेगा। धन्यवाद।
+user: ओके, क्या हम? अंग्रेज़ी में बात कर सकते हैं।
+assistant: जी
+assistant: Let me connect you with  who speaks English.
+assistant:  Yes, we can continue in English. How may I assist you further?
+user:  okay so if i have a tenure of
+assistant:  Since you already have a loan on this property and want to reduce your EMI, a loan-transfer specialist will contact you shortly. Thank you for your time.
+user:  okay i just have a query about the offer
+assistant:   I understand your query, but a senior loan expert will call you back shortly to explain all the details. Thank you for your patience.
+user:  okay thank you sir
+assistant:  Thank you. A loan-transfer specialist will contact you shortly. Have a great day!
+user:  okay
+assistant:  Thank you for your time. Have a great day!
+user:  yes

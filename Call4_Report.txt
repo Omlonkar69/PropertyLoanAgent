@@ -1,0 +1,33 @@
+assistant: Hello, am I speaking with Om Lonkar?
+user:  yes this is omrankar
+assistant:  Thank you, Om Lonkar. I'm calling with a special offer for our valued customers. Do you have a few minutes to talk?
+user:  i'm in a meeting right now
+assistant: I understand. Could you please tell me a convenient day and time when I can call you back?
+assistant: Hello, are you still on the line?
+user:  yep i'm on the line
+assistant:  Thank you for your time. To begin, क्या आपकी संपत्ति residential, commercial, या industrial है?
+user:  में बात करना है
+assistant:  शुक्रिया, मैं आपकी संपत्ति के प्रकार के बारे में पूछना चाहता हूँ। क्या आपकी संपत्ति residential, commercial, या industrial है?
+user: मुझे अंग्रेज़ी में बात करना है। बात करनी है।
+assistant: Let me connect you with  who speaks English.
+assistant:  Thank you for confirming. To start, is your property residential, commercial, or industrial?
+user:  it's a residential property it's a flat and it's in pune i want a loan amount of ninety lakhs
+assistant: Thank you. The offer is for up to
+user:  and the property is
+assistant: The offer is for up to seventy-
+user:  the property is sole sole owner
+assistant:  Got it. Are the original property documents available for verification?
+user:  yes the original documents are available for the checking and i just need to see if the emi i will get will be
+assistant: Thank you. May I know if you are sa
+user:  actually reduced according to my
+assistant:  I understand you want to know about the EMI, but I don't have that information. A senior loan expert will share the exact details after this preliminary check. Meanwhile, may I know if you are salaried or self-employed, and whether your income is received in a bank account or in cash?
+user:  okay so i need to go to a meeting right now
+assistant: Just give me a moment, I'll be back with you.
+assistant:  I understand you need to go to a meeting. When would be a convenient day and time for me to call you back?
+user:  at six pm
+assistant:  Thank you. Just to confirm, you would like a callback today at six PM?
+user:  yep yep
+assistant: Just give me a moment, I'll be back with you.
+assistant:  I have noted your request for a callback today at six PM. Thank you, and have a great day.
+user:  okay thank you very much
+assistant: Thank you for your time, Om Lonkar. Have a great day. Goodbye.

@@ -1,0 +1,51 @@
+assistant: Hello, am I speaking with Om Lonkar?
+user:  oh yes i'm
+assistant:  Thank you. I'm calling with a special offer for our valued customers. Do you have a few minutes to talk?
+user:  may i know which company you belong to
+assistant:  I'm Jaen, an AI assistant from PropyLoans, calling a valued customer about a special offer. May I confirm that I am speaking with Om Lonkar?
+user:  yes this is
+assistant:  Thank you, Om. I'm calling to reward your loyalty with a special Loan Against Property offer of up to seventy-five lakh rupees. May I ask you a few quick questions to check if this offer suits you?
+user:  okay
+assistant:  Great. First, could you please tell me the type of property you want to use for this loan? Is it residential, commercial, or industrial?
+user:  oh it's residential
+assistant:  Thank you. Is the property a house or a flat?
+user:  it's flat
+assistant: Got it. Is the property located in a specific city you can share?
+assistant: Hello, are you still on the line?
+user: किती पुणे?
+assistant:  धन्यवाद। आपला मालमत्ता पुणे शहरात आहे, बरोबर?
+user:  हां
+assistant:  धन्यवाद। मालमत्तेचे स्वामित्व एकटे आहे की संयुक्त आहे?
+assistant: Hello, क्या आप अभी भी लाइन पर हैं?
+user:  हां बोलिए
+assistant:   कृपया सांगा, मालमत्तेचे स्वामित्व एकटे आहे की संयुक्त?
+user:  but
+assistant:   कृपया स्पष्ट करा, मालमत्तेचे स्वामित्व एकटे आहे की संयुक्त?
+assistant: Hello, क्या आप अभी भी लाइन पर हैं?
+user:  हां
+assistant:   धन्यवाद। जर संयुक्त असेल, तर कृपया सांगा, तो कोणासोबत आहे? कुटुंबियांसोबत की भागीदारासोबत?
+user: आपण. अंग्रेजीमध्ये वार्तालाप करू शकतो.
+assistant: Let me connect you with  who speaks English.
+assistant:  Thank you. If the ownership is joint, could you please tell me if it is with family or a partner?
+user:  it is with the family
+assistant:  Thank you. Are the original property documents available for verification?
+user:  yes they are available
+assistant:   Thank you. How much loan amount would you like to borrow?
+user:  about fifty lakhs
+assistant:   Understood. Are you salaried or self-employed, and do you receive your income in a bank account or in cash?
+user:  i'm self employed
+assistant:  Thank you. Do you receive your income mainly in a bank account or in cash?
+user:  cash
+assistant: Thank you for sharing that. Based on this information, you don't meet the criteria for this specific offer at this time. I appreciate your time.
+user:  okay thank you
+assistant:  Thank you for your time. If you have any questions in the future, feel free to reach out. Have a great day.
+user:  okay may i ask a question
+assistant:  Of course, please go ahead with your question.
+user:  whether the call i will be disqualified regarding this offer if i have no original documents
+assistant:  If you do not have the original property documents available for verification, you would not meet the criteria for this specific offer. The senior loan expert will confirm details after this preliminary check.
+user:  oh okay or if i take a ten hour of two two years then it will be qualified or not
+assistant:  The repayment tenure should be between three and fifteen years to meet the criteria. A tenure of two years would not qualify for this offer.
+user:  okay thank you
+assistant: You're welcome. Thank you for your time, and have a great day.
+assistant: Hello, are you still on the line?
+assistant: The call will now disconnect. Goodbye!

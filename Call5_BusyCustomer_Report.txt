@@ -1,0 +1,10 @@
+assistant: Hello, am I speaking with Om Lonkar?
+user: hi
+user:  yes i'm omrita
+assistant:  Thank you. I'm calling with a special offer for our valued customers. Do you have a few minutes to talk?
+user:  sure i have a minute
+assistant:  Thank you. We have a special Loan Against Property offer of up to seventy-five lakh rupees for you. May I ask a few quick questions to check if this offer suits you? First, what type of property do you have—residential like a house or flat, commercial like a shop or office, or industrial like a factory?
+user:  okay can you just hold up and i have to up a call
+assistant:  I understand. When would be a convenient day and time for me to call you back?
+user:  just in two minutes
+assistant: No problem, I'll call you back in two minutes. Thank you, and have a great day.
