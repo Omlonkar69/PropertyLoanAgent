@@ -1,0 +1,4 @@
+Agent_id:dd708566-0335-4c54-8215-a50bf21c01ad
+Agent_name:PropertyLoanAgent
+Bolna AgentLink:https://bolna.ai/a/dd708566-0335-4c54-8215-a50bf21c01ad
+By adding this credentials one can import the agent in there dashboard
